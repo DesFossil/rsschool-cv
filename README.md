@@ -2,4 +2,4 @@
 
 ### Markdown file: [CV/DesFossil](https://DesFossil.github.io/rsschool-cv/cv)
 
-### HTML file: [CV/DesFossil](https://DesFossil.github.io/rsschool-cv/pages/main/index.html)
+### HTML file: [CV/DesFossil](https://DesFossil.github.io/rsschool-cv/pages/main/)
