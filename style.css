@@ -6,7 +6,7 @@ body {
    line-height: 1;
    color: #ffffff;
    background-color: #000;
-   background-image: url(../../assets/images/background_image.jpg);
+   background-image: url(./assets/images/background_image.jpg);
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-position: center;
@@ -354,7 +354,7 @@ body {
    gap: 10px;
 }
 .projects-content__link-summary {
-   background: url(../../assets/images/summary.jpg) no-repeat center;
+   background: url(./assets/images/summary.jpg) no-repeat center;
    background-size: 100%;
    width: 180px;
    height: 180px;
