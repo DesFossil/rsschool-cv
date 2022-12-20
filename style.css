@@ -405,6 +405,7 @@ h1, h2, h3, h4, h5, h6 {
    align-items: center;
    justify-content: flex-end;
    gap: 4px;
+   text-decoration: none;
 }
 .footer-contacts__link__img {
    width: 20px;
