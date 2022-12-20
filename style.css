@@ -6,7 +6,7 @@ body {
    line-height: 1;
    color: #ffffff;
    background-color: #000;
-   background-image: url(./assets/images/background_image.jpg);
+   background-image: url(./assets/images/background.jpg);
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-position: center;
@@ -380,6 +380,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .footer {
    background-color: rgba(0, 0, 0, 0.94);
+   backdrop-filter: blur(1px);
 }
 .footer-content {
    display: flex;
